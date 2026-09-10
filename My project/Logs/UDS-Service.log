@@ -1,0 +1,23 @@
+
+Server arguments:
+  --memory-size 1073741824
+  --shared-postfix 6f8d2b22fe911123b97b2437a9ab0ec2
+  --working-directory Library/DataStore
+  --silent-console
+  --shutdown-grace 0
+  --client-process-check 0
+  --uds-log-file C:/2026137063/GEA_3D_2026137063/My project/Logs/UDS-Service.log
+  --debug-log 2
+  -name
+  Unity.DataStore
+
+Initialising UDS system complete:
+  - System type: Service
+  - Resource namespace: 6f8d2b22fe911123b97b2437a9ab0ec2
+  - Shared memory size: 1073741824
+  - Command buffer id: 1052576
+  - Command buffer size: 8192
+  - Hashmap size: 4194304
+Starting Unity Data Store Application
+Unity Data Store Application Complete
+Shut down UDS service system complete
