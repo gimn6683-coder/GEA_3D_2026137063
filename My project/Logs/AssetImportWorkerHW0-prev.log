@@ -1,8 +1,0 @@
-[Licensing::Module] Trying to connect to existing licensing client channel...
-Built from '6000.6/respin/6000.6.0f1-fa21a270ab12' branch; Version is '6000.6.0f1 (f7f8ed4d1e24) revision 16251117'; Using compiler version '194234433'; Build Type 'Release'
-[Licensing::IpcConnector] Successfully connected to: "LicenseClient-user" at "2026-09-10T05:05:31.1156505Z"
-OS: 'Windows 11  (10.0.26100) Education' Language: 'ko' Physical Memory: 32558 MB
-BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1
-System  architecture: x64
-Process architecture: x64
-Date: 2026-09-10T05:05:31Z
