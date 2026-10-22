@@ -1,6 +1,9 @@
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
+
+
+
 public class TitleMenu : MonoBehaviour
 {
     public string gameSceneName = "SampleScene";
@@ -16,4 +19,9 @@ public class TitleMenu : MonoBehaviour
         Application.Quit();
     }
 
-}
+
+
+
+    
+    }
+

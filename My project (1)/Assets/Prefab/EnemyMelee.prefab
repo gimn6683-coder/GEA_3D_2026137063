@@ -71,6 +71,9 @@ MonoBehaviour:
   maxHp: 3
   currentHp: 0
   hpSlider: {fileID: 0}
+  dropPrefab: {fileID: 752665698313580469, guid: f9e023c7933005f428254d26710935a7, type: 3}
+  dropChance: 0.3
+  invincibleTime: 0
 --- !u!114 &1082858128767067012
 MonoBehaviour:
   m_ObjectHideFlags: 0
